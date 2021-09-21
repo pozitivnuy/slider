@@ -1,0 +1,2 @@
+# slider
+Photo-Slider js
