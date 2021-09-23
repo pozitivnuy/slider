@@ -1,2 +1,3 @@
-# slider
-Photo-Slider js
+# Slider
+Photo-Slider.js
+https://pozitivnuy.github.io/slider/
